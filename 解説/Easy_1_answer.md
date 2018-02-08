@@ -10,6 +10,6 @@ X + (N-1)Y 円
 となることがわかるでしょう。  
 後は純粋にA日目までの合計を求めればよいので答えを導くための式は、
 <pre>
-<img src="https://latex.codecogs.com/gif.latex?\sum_{a=1}^N(X&space;&plus;&space;(a&space;-&space;1)Y)&space;=&space;NX&space;&plus;&space;\frac{N(N&space;-&space;1)}{2}Y" />
+<img src="https://latex.codecogs.com/png.latex?\sum_{a=1}^N(X&space;&plus;&space;(a&space;-&space;1)Y)&space;=&space;NX&space;&plus;&space;\frac{N(N&space;-&space;1)}{2}Y" />
 </pre>
 となり、これに与えられた値を代入するとN日目までの駐車料金の合計金額を求めることが出来ます。
